@@ -1,4 +1,4 @@
-package core;
+package com.github.urlv.core;
 
 public class Configuration {
     public static final int IO_TIMEOUT_SECONDS = 5;

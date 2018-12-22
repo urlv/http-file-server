@@ -1,6 +1,6 @@
-package core;
+package com.github.urlv.core;
 
-import utils.Check;
+import com.github.urlv.utils.Check;
 
 import java.io.IOException;
 import java.nio.ByteBuffer;

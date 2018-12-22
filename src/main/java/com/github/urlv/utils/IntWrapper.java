@@ -1,4 +1,4 @@
-package utils;
+package com.github.urlv.utils;
 
 public class IntWrapper {
     private int value;

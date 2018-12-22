@@ -1,8 +1,8 @@
-package core;
+package com.github.urlv.core;
 
-import utils.Action;
-import utils.Check;
-import utils.IntWrapper;
+import com.github.urlv.utils.Action;
+import com.github.urlv.utils.Check;
+import com.github.urlv.utils.IntWrapper;
 
 import java.io.File;
 import java.io.IOException;

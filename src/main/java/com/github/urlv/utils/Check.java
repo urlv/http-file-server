@@ -1,4 +1,4 @@
-package utils;
+package com.github.urlv.utils;
 
 import java.util.function.Predicate;
 

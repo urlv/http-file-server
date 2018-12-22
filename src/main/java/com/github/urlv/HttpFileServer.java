@@ -1,7 +1,7 @@
-package api;
+package com.github.urlv;
 
-import core.Configuration;
-import core.RequestHandler;
+import com.github.urlv.core.Configuration;
+import com.github.urlv.core.RequestHandler;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

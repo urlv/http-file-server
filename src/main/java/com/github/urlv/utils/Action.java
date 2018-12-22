@@ -1,4 +1,4 @@
-package utils;
+package com.github.urlv.utils;
 
 @FunctionalInterface
 public interface Action {

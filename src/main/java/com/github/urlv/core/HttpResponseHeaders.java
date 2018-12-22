@@ -1,4 +1,6 @@
-package core;
+package com.github.urlv.core;
+
+import com.github.urlv.Bytes;
 
 import java.util.HashMap;
 import java.util.Map;
